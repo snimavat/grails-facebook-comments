@@ -5,7 +5,6 @@ Facebook comments grails plugin
 
 
 ## Configuration
------
 Following configuration options are available. 
 
 - grails.plugin.facebookcomments.appId
@@ -21,7 +20,6 @@ All of the config options are optional.
 See [facebook documentation](https://developers.facebook.com/docs/reference/plugins/comments/) for details about possible values.
 
 ## Integrating facebook comments into your application.
-----
 Follow this steps for integration
 
 *Step 1*
