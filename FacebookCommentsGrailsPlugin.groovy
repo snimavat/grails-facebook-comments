@@ -6,9 +6,9 @@ class FacebookCommentsGrailsPlugin {
 	def authorEmail = "sudhir@nimavat.me"
 	def description = "Easy Facebook Comments Integration"
 
-	def documentation = "http://grails.org/plugin/facebook-comments"
+	def documentation = "https://github.com/snimavat/grails-facebook-comments"
 	def license = "APACHE"
 
-	def issueManagement = [ system: "GITHUB", url: "https://github.com/snimavat/nimble/issues" ]
-	def scm = [system: 'GitHub', url: 'https://github.com/snimavat/nimble']
+	def issueManagement = [ system: "GITHUB", url: "https://github.com/snimavat/grails-facebook-comments/issues" ]
+	def scm = [system: 'GitHub', url: 'https://github.com/snimavat/grails-facebook-comments']
 }
